@@ -1,0 +1,2 @@
+Nesse arquivo os e-mails e senhas serão salvos:
+
